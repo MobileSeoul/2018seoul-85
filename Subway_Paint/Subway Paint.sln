@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subway Paint", "Assembly-CSharp.csproj", "{D909870B-6E2C-9EAE-5E33-E9A47637453F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subway Paint", "Assembly-CSharp-firstpass.csproj", "{32F2346B-95D7-C44C-AF0F-C7E8916567CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subway Paint", "Assembly-CSharp-Editor.csproj", "{AE6B53C4-F459-B501-D737-42CA6F130124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D909870B-6E2C-9EAE-5E33-E9A47637453F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D909870B-6E2C-9EAE-5E33-E9A47637453F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D909870B-6E2C-9EAE-5E33-E9A47637453F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D909870B-6E2C-9EAE-5E33-E9A47637453F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F2346B-95D7-C44C-AF0F-C7E8916567CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F2346B-95D7-C44C-AF0F-C7E8916567CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F2346B-95D7-C44C-AF0F-C7E8916567CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F2346B-95D7-C44C-AF0F-C7E8916567CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE6B53C4-F459-B501-D737-42CA6F130124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE6B53C4-F459-B501-D737-42CA6F130124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE6B53C4-F459-B501-D737-42CA6F130124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE6B53C4-F459-B501-D737-42CA6F130124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

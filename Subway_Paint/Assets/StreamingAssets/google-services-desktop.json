@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "269629874086",
+    "firebase_url": "https://subwaypaint.firebaseio.com",
+    "project_id": "subwaypaint",
+    "storage_bucket": "subwaypaint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269629874086:android:f1703926096cd70d",
+        "android_client_info": {
+          "package_name": "com.subway.paint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269629874086-qgenveh88i50hi3dmbl9p41n543npbrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3IwsQ0xibsFH92FeXpZI6yBbSz62MlQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
